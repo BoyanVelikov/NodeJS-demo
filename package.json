@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplexTransform.js",
+  "scripts": {
+    "debug": "nodemon --inspect"
+  },
+  "author": "",
+  "license": "ISC"
+}
